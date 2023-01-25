@@ -1,6 +1,6 @@
 # **Finding job**
 
-Its a project which shows details of jobs . We can search jobs by salary range also while clicking on under salary button.We can also search jobs of past month also by clicking on last month button.
+A JavaScript project that utilizes the filter method and an open modal feature could be an interactive website that allows users to search through a list of jobs and display the results in a modal window. The filter method would be used to search through the list of items and only display those that match the user's search criteria. The modal window would be used to display the search results in a clear and easy-to-read format.
 
 ### ADD IMAGE
 
